@@ -6,6 +6,6 @@
 [subrepo]
 	remote = git@github.com:schwinnn/test.git
 	branch = master
-	commit = d2ded6836794927601a16fef6bae891b30a52f9c
-	parent = e03add5f92368303c82c8860946f56f8c60ec4f9
+	commit = ed6e57dbd0be91c4694cd5f719ff0360e65c8ffd
+	parent = 5863f7fb8d5b40514db573abca8284b922681d8a
 	cmdver = 0.3.0
